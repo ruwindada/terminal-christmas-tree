@@ -13,7 +13,7 @@ COLOR = {
     'white': '\033[97m',
     'red': '\033[91m'
 }
-STAR = '★'
+STAR = '$'
 
 
 def random_change_char(string, value):
